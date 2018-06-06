@@ -1,0 +1,23 @@
+{
+  "name": "phillipproxy",
+  "version": "1.0.0",
+  "description": "Proxy / Gate for Advertisement Service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/th0s/phillipProxy.git"
+  },
+  "author": "Phillip Schmidt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/th0s/phillipProxy/issues"
+  },
+  "homepage": "https://github.com/th0s/phillipProxy#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
